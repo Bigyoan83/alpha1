@@ -49,13 +49,14 @@ h1 {
     padding: 17px 20px;
     color: #fff;
     text-shadow: 10px 0px 20px rgba(0,0,0);
-    font-size: 16px;
-    border-radius: 0% 10px;
+    font-size: 18px;
     transition-duration: 0.4s;
 }
-
+.active{
+    border-radius: 20px 0px 0px 20px;
+}
 .Groupe1 a:hover {
-    background-color: rgb(100, 60, 0)
+    background-color: rgb(0, 0, 0)
 }
 
 .Groupe1 form {
