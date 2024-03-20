@@ -28,6 +28,12 @@ h1 {
     text-shadow: 0px 0px 10px rgba(0,0,0);
     color: #fff;
     background: linear-gradient(to top, rgb(120, 38, 0),rgba(0,0,0));
-    border-radius: 5px;
-    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.582);
+    border-radius: 20px;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0);
+}
+
+button {
+    background-color: black;
+    text-align: center;
+    color: #fff;
 }
