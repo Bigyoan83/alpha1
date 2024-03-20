@@ -31,13 +31,13 @@ h1 {
     color: #fff;
     background: linear-gradient(to top, rgb(120, 38, 0),rgba(0,0,0));
     border-radius: 20px;
-    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0);
 }
 
 .Groupe1 div {
     margin: auto;
-    max-width: 600px;
-    min-height: 49px;
+    min-width: auto;
+    max-width: 800px;
+    min-height: 50px;
     border-radius: 20px;
     background-color: rgb(200, 60, 0)
 }
@@ -52,9 +52,11 @@ h1 {
     font-size: 18px;
     transition-duration: 0.4s;
 }
+
 .active{
     border-radius: 20px 0px 0px 20px;
 }
+
 .Groupe1 a:hover {
     background-color: rgb(0, 0, 0)
 }
@@ -63,9 +65,21 @@ h1 {
     padding: 14px 16px;
 }
 
+.Groupe1 input {
+    font-size: 17px;
+    border-radius: 10px;
+}
+
 .Groupe1 button {
     background-color: black;
     text-align: center;
     color: #fff;
     font-size: 17px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    margin-left: 15px;
+}
+
+.Groupe1 button:hover {
+    background-color: rgb(120, 38, 0);
 }
