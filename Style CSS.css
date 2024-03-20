@@ -1,6 +1,7 @@
-body {
+body {    
     font-family: Arial, sans-serif;
     background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+    background-image: url("Image_salle_de_sport.jpg");
     margin: 0;
     padding: 0;
 }
@@ -22,6 +23,7 @@ h1 {
 }
 
 .Groupe1 {
+    text-align: center;
     max-width: 1000px;
     margin: 20px auto;
     padding: 20px;
@@ -35,7 +37,7 @@ h1 {
 .Groupe1 div {
     margin: auto;
     max-width: 600px;
-    min-height: 50px;
+    min-height: 49px;
     border-radius: 20px;
     background-color: rgb(200, 60, 0)
 }
@@ -44,12 +46,12 @@ h1 {
     float: left;
     display: inline;
     text-align: center;
-    padding: 14px 16px;
-    border-radius: 20px;
+    padding: 17px 20px;
     color: #fff;
     text-shadow: 10px 0px 20px rgba(0,0,0);
-    font-size: 17px;
-    background-color: rgb(200, 60, 0)
+    font-size: 16px;
+    border-radius: 0% 10px;
+    transition-duration: 0.4s;
 }
 
 .Groupe1 a:hover {
