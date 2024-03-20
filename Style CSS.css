@@ -32,7 +32,16 @@ h1 {
     box-shadow: 0px 0px 50px rgba(0, 0, 0, 0);
 }
 
-button {
+.Groupe1 a {
+    float: left;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.Groupe1 button {
     background-color: black;
     text-align: center;
     color: #fff;
