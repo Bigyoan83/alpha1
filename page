@@ -3,4 +3,8 @@
     <head>
         <link href="Style-page-salle.css" rel="stylesheet">
     </head>
+    <body>
+        <header>
+        </header>
+    </body>
 </html>
