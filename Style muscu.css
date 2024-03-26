@@ -1,0 +1,84 @@
+header {
+
+font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0px 0px 10px rgba(0,0,0);
+    background: linear-gradient(rgb(120, 38, 0),rgba(0,0,0));
+    color: #fff;
+    text-align: center;
+    padding: 10px;  
+}
+
+body {    
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+    background-image: url("Image_salle_de_sport.jpg");
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+    color: #fff;
+}
+
+.Régionsud {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+
+.régioncentre {
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+}
+
+#provence {
+    color: #fff;
+    padding: 25px 100px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+}
+
+#Occitanie {
+    color: #fff;
+    padding: 25px 100px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+}
+
+#Aquitaine {
+    color: #fff;
+    padding: 25px 100px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+}
+
+#auvergne {
+    color: #fff;
+    padding: 25px 100px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+}
+
+#Bourgogne {
+    color: #fff;
+    padding: 25px 100px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+}
+
+#Centre-Val {
+    color: #fff;
+    padding: 25px 100px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+}
+
+
