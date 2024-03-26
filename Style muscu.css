@@ -23,19 +23,26 @@ h2 {
 
 .Régionsud {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin: 50px;
 }
 
 .régioncentre {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     margin: 50px;
+}
+
+.régionnord {
+    display: flex;
+    justify-content: center;
+    margin: 50px;    
 }
 
 #provence {
     color: #fff;
-    padding: 25px 100px;
+    margin: 10px;
+    padding: 20px;
     font-size: 15px;
     border-radius: 20px 20px 20px 20px;
     background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
@@ -43,7 +50,8 @@ h2 {
 
 #Occitanie {
     color: #fff;
-    padding: 25px 100px;
+    margin: 10px;
+    padding: 20px;
     font-size: 15px;
     border-radius: 20px 20px 20px 20px;
     background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
@@ -51,7 +59,8 @@ h2 {
 
 #Aquitaine {
     color: #fff;
-    padding: 25px 100px;
+    padding: 20px;
+    margin: 10px;
     font-size: 15px;
     border-radius: 20px 20px 20px 20px;
     background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
@@ -59,7 +68,8 @@ h2 {
 
 #auvergne {
     color: #fff;
-    padding: 25px 100px;
+    margin: 10px;
+    padding: 20px;
     font-size: 15px;
     border-radius: 20px 20px 20px 20px;
     background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
@@ -67,7 +77,8 @@ h2 {
 
 #Bourgogne {
     color: #fff;
-    padding: 25px 100px;
+    margin: 10px;
+    padding: 20px;
     font-size: 15px;
     border-radius: 20px 20px 20px 20px;
     background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
@@ -75,10 +86,64 @@ h2 {
 
 #Centre-Val {
     color: #fff;
-    padding: 25px 100px;
+    margin: 10px;
+    padding: 20px;
     font-size: 15px;
     border-radius: 20px 20px 20px 20px;
     background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
 }
 
+#laLoire {
+    color: #fff;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+}
+
+#Bretagne {
+    color: #fff;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+}
+
+#Normandie {
+    color: #fff;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));   
+}
+
+#Île-de-France {
+    color: #fff;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));    
+}
+
+#Hauts-de-France {
+    color: #fff;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));   
+}
+
+#GrandEst {
+    color: #fff;
+    margin: 10px;
+    padding: 20px;
+    font-size: 15px;
+    border-radius: 20px 20px 20px 20px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0)); 
+}
 
