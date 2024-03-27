@@ -63,7 +63,6 @@ h1 {
 
 .Groupe1 form {
     padding: 14px 16px;
-    margin: 12px;
 }
 
 .Groupe1 input {
@@ -83,4 +82,99 @@ h1 {
 
 .Groupe1 button:hover {
     background-color: rgb(120, 38, 0);
+}
+
+#footer{
+	background: linear-gradient(to bottom left, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
+	padding-top: 5%;
+    padding-bottom: 80px;
+	
+}
+
+.social-links h2{
+	padding-bottom: 15px;
+	font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+}
+
+.social-icons{
+	display: flex;
+    flex-direction: column;
+    gap: 12px;
+	color: #ffffff;
+    font-size: 15px;
+
+}
+
+.social-icons a{
+	color: #ffffff;
+}
+
+li{
+	list-style: none;
+}
+
+.lien-u h2{
+	padding-bottom: 15px;
+    color: #fff;
+	font-size: 20px;
+    font-weight: 600;
+}
+
+.lien-u{
+	line-height: 32px;
+}
+
+.lien-u li i{
+	font-size: 14px;
+    padding-right: 8px;
+    color: #ffffff;
+}
+
+.lien-u li a{
+	color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+	color: #ffffff;
+}
+
+.address h2{
+	padding-bottom: 15px;
+	font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.links li a{
+	color: #ffffff;
+    font-size: 15px;
+    font-weight: 500;
+	color: #ffffff;
+}
+
+.links li i{
+	font-size: 15px;
+    padding-right: 8px;
+	color: #ffffff;
+}
+
+.links{
+    font-weight: 500;
+    font-size: 15px;
+	line-height: 32px;
+	color: #ffffff;
+}
+
+.copy-right {
+	padding: 2%;
+    background: #000000;
+    color: #fff;
+    text-align: center;
+    text-decoration:none;
+}
+
+.copy-right a{
+	color: #fcd462;
+    font-weight: 500;
 }
