@@ -1,17 +1,15 @@
 header {
-
-font-family: Arial, Helvetica, sans-serif;
-    text-shadow: 0px 0px 10px rgba(0,0,0);
-    background: linear-gradient(rgb(120, 38, 0),rgba(0,0,0));
-    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
+    color:#2D241E;
     text-align: center;
-    padding: 10px;  
+    padding: 5px;  
 }
 
-body {    
+body {  
+    background-image: url(pexels-lukas-669576.jpg);
+    background-size: cover;
     font-family: Arial, sans-serif;
-    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0));
-    background-image: url("Image_salle_de_sport.jpg");
     margin: 0;
     padding: 0;
 }
@@ -19,7 +17,7 @@ body {
 h2 {
     padding-top: 10px;
     text-align: center;
-    color: #fff;
+    color: #2D241E;
 }
 
 .Régionsud {
@@ -41,36 +39,34 @@ h2 {
 }
 
 #region  { 
-    color: #fff;
+    color:#2D241E;
     font-weight: bold;
     margin: 10px;
     padding: 20px;
     font-size: 20px;
     border-radius: 20px 20px 20px 20px;
-    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0)); 
-    
+    background-color: white;    
 }
 .barreRecherche {
     display: flex;
-    flex-direction:column;
-
+    justify-content: center;
 }
 
 #boutonRecherche {
     margin-top: 10px;
-    color: #fff;
+    color:#2D241E;
     font-weight: bold;
     font-size: 20px;
     border-radius: 10px;
-    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0)); 
-    margin-left: auto;
+    background-color: white;
     margin-right: auto;
 }
 
 #recherche {
     margin-top: 10px;
     margin-left: auto;
-    margin-right: auto;
+    margin-right: 5px;
     border-radius: 7px;
+    
 }
 
