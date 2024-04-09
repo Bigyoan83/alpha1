@@ -1,1 +1,115 @@
 
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Cpaur Crossfit</title>
+    <header>
+      <form class="recherche" action="/recherche">
+        <input  name="q" >
+        <button type="submit" class="recherche">Rechercher</button>
+    </form>
+    </header>
+  </head>
+  <body>
+
+    <!--------------------------------------------- CSS------------------------------------------------------- -->
+    <style>
+    body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background-color: #333;
+  color: #fff;
+  background-size: cover;
+  background-image: url(backgroundd.jpg)
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;  
+}
+
+header input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  width: 200px;
+}
+
+header button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  background-color: #000;
+  color: #fff;
+  border: 1px solid #fff;
+}
+
+.recherche {
+  display: flex; 
+  display: inline;
+}
+
+.box {
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid #fff;
+  width: 300px;
+  text-align: center;
+  border-bottom: 1px solid #ccc;  
+  display: inline-block;
+}
+
+.box h2 {
+  margin-top: 0;
+}
+.BouttonAcceuil{
+  background-color: black;
+
+}
+
+.BouttonAcceuil:hover {
+  color: #333;
+}
+.recherche:hover {
+  color: #333;
+}
+
+    </style>
+    
+    <!-- ---------------------------------------------------------------------------------------------------------   -->
+
+    <!------------------------- javascript----------------------------------->
+    <script>
+  
+    </script>
+    <!-------------- ---- ----------------------------------------------------->
+    <a href="https://www.google.com" class="BouttonAcceuil">
+      <img src="iconemaison.png" alt="Icône" width="30" height="30">
+    </a>
+    
+      <h1 class="Titre"> Salle de Crossfit</h1>
+
+      <div class="box">
+        <h2>Salle 1</h2>
+        <p>situé au ...</p>
+      </div>
+   
+
+      <div class="box">
+        <h2>Salle 2</h2>
+        <p>situé au ...</p>
+      </div>
+
+      <div class="box">
+        <h2>Salle 3</h2>
+        <p>Situé au ....</p>
+      </div>
+
+      <div class="box">
+        <h2>Salle 4</h2>
+        <p>Situé au ....</p>
+      </div>
+    
+    
+  </body>
+</html>
