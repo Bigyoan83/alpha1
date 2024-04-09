@@ -40,8 +40,9 @@ h2 {
     margin: 50px;    
 }
 
-h3  { 
+#region  { 
     color: #fff;
+    font-weight: bold;
     margin: 10px;
     padding: 20px;
     font-size: 20px;
@@ -49,13 +50,27 @@ h3  {
     background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0)); 
     
 }
-.barreDeRecherche {
+.barreRecherche {
     display: flex;
     flex-direction:column;
+
 }
 
-#bouton {
-    display: flex;
-    margin-left: 5px;
+#boutonRecherche {
+    margin-top: 10px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    background: linear-gradient(to bottom right, rgb(120, 38, 0),rgba(0,0,0), rgb(120, 38, 0)); 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#recherche {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px;
 }
 
