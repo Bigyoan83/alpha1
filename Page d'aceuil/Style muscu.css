@@ -14,13 +14,6 @@ body {
     padding: 0;
 }
 
-#footer{
-	background: #f7f7f7;
-	padding-top: 5%;
-    padding-bottom: 80px;
-	
-}
-
 h2 {
     padding-top: 10px;
     text-align: center;
@@ -75,94 +68,6 @@ h2 {
     margin-right: 5px;
     border-radius: 7px;
     
-}
-
-
-
-.social-links h2{
-	padding-bottom: 15px;
-	font-size: 20px;
-    font-weight: 600;
-}
-
-.social-icons{
-	display: flex;
-    flex-direction: column;
-    gap: 12px;
-	color: #777777;
-    font-size: 15px;
-
-}
-.social-icons a{
-
-	color: #777777;
-}
-
-
-li{
-	list-style: none;
-}
-
-
-.lien-u h2{
-	padding-bottom: 15px;
-	font-size: 20px;
-    font-weight: 600;
-}
-
-.lien-u{
-	line-height: 32px;
-}
-.lien-u li i{
-	font-size: 14px;
-    padding-right: 8px;
-    color: #898989;
-}
-.lien-u li a{
-	color: #303030;
-    font-size: 15px;
-    font-weight: 500;
-	color: #777777;
-}
-
-.address h2{
-	padding-bottom: 15px;
-	font-size: 20px;
-    font-weight: 600;
-}
-
-.links li a{
-	color: #303030;
-    font-size: 15px;
-    font-weight: 500;
-	color: #777777;
-
-}
-.links li i{
-	font-size: 15px;
-    padding-right: 8px;
-	color: #000000;
-
-}
-
-
-.links{
-    font-weight: 500;
-    font-size: 15px;
-	line-height: 32px;
-	color: #777777;
-}
-
-.copy-right {
-	padding: 2%;
-    background: #000000;
-    color: #fff;
-    text-align: center;
-    text-decoration:none;
-}
-.copy-right a{
-	color: #fcd462;
-    font-weight: 500;
 }
 
 

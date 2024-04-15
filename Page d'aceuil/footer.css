@@ -22,17 +22,13 @@
 
 }
 .social-icons a{
-
 	color: #777777;
 }
-
 
 li{
 	list-style: none;
 	text-align: center;
 }
-
-
 
 .lien-u h2{
 	padding-bottom: 15px;
@@ -43,11 +39,13 @@ li{
 .lien-u{
 	line-height: 32px;
 }
+
 .lien-u li i{
 	font-size: 14px;
     padding-right: 8px;
-    color: #898989;
+  	color: #898989;
 }
+
 .lien-u li a{
 	color: #303030;
     font-size: 15px;
@@ -68,13 +66,13 @@ li{
 	color: #777777;
 
 }
+
 .links li i{
 	font-size: 15px;
     padding-right: 8px;
 	color: #000000;
 
 }
-
 
 .links{
     font-weight: 500;
@@ -90,6 +88,7 @@ li{
     text-align: center;
     text-decoration:none;
 }
+
 .copy-right a{
 	color: #fcd462;
     font-weight: 500;
