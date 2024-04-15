@@ -1,0 +1,170 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gainsboro;
+    color:#2D241E;
+    text-align: center;
+    padding: 5px;  
+}
+
+body {  
+    background-image: url(pexels-lukas-669576.jpg);
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#footer{
+	background: #f7f7f7;
+	padding-top: 5%;
+    padding-bottom: 80px;
+	
+}
+
+h2 {
+    padding-top: 10px;
+    text-align: center;
+    color: #2D241E;
+}
+
+.Régionsud {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.régioncentre {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.régionnord {
+    display: flex;
+    justify-content: center;
+    margin: 50px;    
+}
+
+#region  { 
+    color:#2D241E;
+    font-weight: bold;
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 20px 20px 20px 20px;
+    background-color: white;    
+}
+.barreRecherche {
+    display: flex;
+    justify-content: center;
+}
+
+#boutonRecherche {
+    margin-top: 10px;
+    color:#2D241E;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: white;
+    margin-right: auto;
+}
+
+#recherche {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: 5px;
+    border-radius: 7px;
+    
+}
+
+
+
+.social-links h2{
+	padding-bottom: 15px;
+	font-size: 20px;
+    font-weight: 600;
+}
+
+.social-icons{
+	display: flex;
+    flex-direction: column;
+    gap: 12px;
+	color: #777777;
+    font-size: 15px;
+
+}
+.social-icons a{
+
+	color: #777777;
+}
+
+
+li{
+	list-style: none;
+}
+
+
+.lien-u h2{
+	padding-bottom: 15px;
+	font-size: 20px;
+    font-weight: 600;
+}
+
+.lien-u{
+	line-height: 32px;
+}
+.lien-u li i{
+	font-size: 14px;
+    padding-right: 8px;
+    color: #898989;
+}
+.lien-u li a{
+	color: #303030;
+    font-size: 15px;
+    font-weight: 500;
+	color: #777777;
+}
+
+.address h2{
+	padding-bottom: 15px;
+	font-size: 20px;
+    font-weight: 600;
+}
+
+.links li a{
+	color: #303030;
+    font-size: 15px;
+    font-weight: 500;
+	color: #777777;
+
+}
+.links li i{
+	font-size: 15px;
+    padding-right: 8px;
+	color: #000000;
+
+}
+
+
+.links{
+    font-weight: 500;
+    font-size: 15px;
+	line-height: 32px;
+	color: #777777;
+}
+
+.copy-right {
+	padding: 2%;
+    background: #000000;
+    color: #fff;
+    text-align: center;
+    text-decoration:none;
+}
+.copy-right a{
+	color: #fcd462;
+    font-weight: 500;
+}
+
+
+
+
