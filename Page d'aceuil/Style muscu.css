@@ -3,7 +3,7 @@ header {
     background-color: gainsboro;
     color:#2D241E;
     text-align: center;
-    padding: 5px;  
+    padding: 5px;
 }
 
 body {  
@@ -23,19 +23,19 @@ h2 {
 .Régionsud {
     display: flex;
     justify-content: center;
-    margin: 50px;
+    margin: 80px;
 }
 
 .régioncentre {
     display: flex;
     justify-content: center;
-    margin: 50px;
+    margin: 80px;
 }
 
 .régionnord {
     display: flex;
     justify-content: center;
-    margin: 50px;    
+    margin: 80px;    
 }
 
 #region  { 

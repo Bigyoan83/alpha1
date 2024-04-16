@@ -3,7 +3,7 @@
 #footer{
 	background: #f7f7f7;
 	padding-top: 5%;
-    padding-bottom: 80px;
+    padding: 30px;
 	
 }
 
@@ -93,5 +93,6 @@ li{
 	color: #fcd462;
     font-weight: 500;
 }
+
 
 
