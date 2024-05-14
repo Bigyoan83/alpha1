@@ -94,5 +94,11 @@ li{
     font-weight: 500;
 }
 
+.row {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+}
+
 
 
