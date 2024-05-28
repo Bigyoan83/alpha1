@@ -6,9 +6,21 @@ body {
 }
 
 header {
+    display: flex;
+    flex-direction: row;
     text-shadow: 0px 0px 10px rgba(0,0,0);
-    text-align: center;
     padding: 20px;
+    justify-content: space-between(50%);
+    text-align: center;
+}
+
+#button-accueil {
+    color:#2D241E;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px 10px;
+    border-radius: 15px;
+    background-color: white; 
 }
 
 h1 {
@@ -16,6 +28,7 @@ h1 {
     font-size: 36px;
     color: rgba(255,255,255);
     text-shadow: 0px 0px 10px rgba(0,0,0);
+    padding-left: 42%;
 }
 .Titre {
     text-align: center;
